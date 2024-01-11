@@ -103,7 +103,7 @@ main > section > h1 {
  }
 
 .link-icon::after {
-    background-image: url('__MACOSX/imagens/link-icon.png');
+    background-image: url('imagens/link-icon.png');
     background-size: cover;  /* Ajusta a imagem para cobrir todo o espaço do pseudo-elemento */
     content: "";
     display: inline-block;

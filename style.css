@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @font-face {
     font-family: 'Idroid';
-    src: url(__MACOSX/fontes/IDroid.otf) format('opentype');
+    src: url(fontes/IDroid.otf) format('opentype');
 }
 /* CSS Document */
 
